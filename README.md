@@ -6,6 +6,6 @@
 
 
 
-Landing Page
+# Landing Page
 
 ![Screenshot_2023-08-15-19-25-24-69_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/arcane77/Pets-hub/assets/96630482/c6ba46a8-4cf4-4bc8-99ba-099c8364d258)
