@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>
+	petshop
+</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+
+    background-size: cover;
+  background: rgb(232, 221, 193);
+   background: -webkit-linear-gradient(right, rgb(232, 221, 193)8,#1a1a1a);
+  background: -moz-linear-gradient(right, #1a1a1a,  rgb(232, 221, 193)8);
+  background: -o-linear-gradient(right,rgb(232, 221, 193),#1a1a1a);
+  background: linear-gradient(to left, #1a1a1a, rgb(232, 221, 193)8);
+  font-family:  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+  /*background-color:rgba(43, 3, 3, 0.945);*/
+  
+}
+.topnav {
+  overflow: hidden;
+  background-color:rgb(152, 116, 112);
+  height: 70px;
+}
+
+.topnav a {
+  float: left;
+  color:rgb(232, 221, 193);
+  text-align: center;
+  padding: 14px 16px 14px 0px;
+  text-decoration: none;
+  font-size: 33px;
+  font-weight: bold;
+}
+
+.logo {
+  overflow: hidden;
+  background-color:rgb(152, 116, 112);
+  float: left;
+  color: rgb(232, 221, 193);
+  text-align: left;
+  padding: 14px 7px 8px 15px;
+  text-decoration: none;
+
+}
+.login-page {
+  width: 760px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+ 
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 8px 8px 0  #221918;
+  border-radius: 3px; 
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background:rgb(152, 116, 112);
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  
+}
+.form button:hover,.form button:active,.form button:focus {
+  background:rgb(0, 0, 0);
+}
+	
+
+</style>
+</head>
+<body>
+  <div class="logo">
+    <a class="active" href="login.html"><img src="logo.png"></a>
+  </div>
+    <div class="topnav">
+            <a href="login.html">Pets-Hub</a>
+          </div>
+    <div class="login-page">
+  <div class="form">
+    <form class="login-form" action="index.php" method="POST">
+      <h1>Login</h1>
+      <input type="text" name="t1" placeholder="username" required/>
+      <input type="password"  name="t2" placeholder="password" required/>
+      <button type="submit"  name="t23" >login</button>
+    </form>
+  </div>
+</div>
+        
+
+     
+       
+</body>	
+
+</html>
