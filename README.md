@@ -35,4 +35,4 @@
 ![WhatsApp Image 2023-08-28 at 1 57 04 PM](https://github.com/arcane77/Pets-hub/assets/96630482/05720b37-891f-4e42-98ca-6bd6ceb46204)
 
 ---
-## Additionally we could also be able to update/add new details at every stage.
+## Additionally we could also be able to update/delete/add details at every stage.
