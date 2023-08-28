@@ -2,11 +2,11 @@
 Pets-Hub is a user-friendly dashboard designed to automate and simplify pet adoption management. It significantly reduces manual workload by up to 70% and improves the accuracy of product data by 90%.
 
 
+## 📸 Snapshots
+---
 ![Pets-Hub Banner](https://github.com/arcane77/Pets-hub/assets/96630482/8e363a26-08ad-47bf-b8ac-04af869f22f5)
 
 
-## 📸 Snapshots
----
 ### 🏠 Landing Page
 ![Landing Page](https://github.com/arcane77/Pets-hub/assets/96630482/c6ba46a8-4cf4-4bc8-99ba-099c8364d258)
 
