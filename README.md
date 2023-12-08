@@ -74,7 +74,6 @@ Contributions, issues, and feature requests are welcome!
 ## 🙋‍♀️ Support
 
 If you found this project useful, don't hesitate to give it a ⭐ and share it with your friends!
-Don't forget to leave a star on our repository! :star:
 
 ---
 
